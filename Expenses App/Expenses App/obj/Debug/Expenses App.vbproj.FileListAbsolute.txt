@@ -1,0 +1,36 @@
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\bin\Debug\Expenses App.exe.config
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\bin\Debug\Expenses App.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\bin\Debug\Expenses App.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\bin\Debug\Expenses App.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.vbprojResolveAssemblyReference.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses_App.Form1.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses_App.Resources.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.vbproj.GenerateResource.Cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.vbproj.CoreCompileInputs.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Expenses App\obj\Debug\Expenses App.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses_App.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses_App.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\bin\Debug\Expenses App.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses_App.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses_App.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Expenses App\Expenses App\obj\Debug\Expenses App.pdb

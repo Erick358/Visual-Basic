@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exam_Average_Application", "Exam_Average_Application\Exam_Average_Application.vbproj", "{F5BC9E92-A0FD-4B9D-A600-FA1CBE7F5F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BC9E92-A0FD-4B9D-A600-FA1CBE7F5F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BC9E92-A0FD-4B9D-A600-FA1CBE7F5F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BC9E92-A0FD-4B9D-A600-FA1CBE7F5F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BC9E92-A0FD-4B9D-A600-FA1CBE7F5F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C585F550-79BA-4B99-AB67-D90FA0D70C25}
+	EndGlobalSection
+EndGlobal

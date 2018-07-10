@@ -1,0 +1,59 @@
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe.config
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\bin\Debug\Exam_Average_Application.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\bin\Debug\Exam_Average_Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbprojResolveAssemblyReference.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.Form1.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.Resources.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.GenerateResource.Cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.CoreCompileInputs.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Exam_Average_Application\obj\Debug\Exam_Average_Application.pdb
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe.config
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.pdb
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.xml
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbprojResolveAssemblyReference.cache
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Form1.resources
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Resources.resources
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.GenerateResource.Cache
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.CoreCompileInputs.cache
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.exe
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.xml
+D:\Monroe College 2017\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.pdb
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe.config
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.exe
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.pdb
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\bin\Debug\Exam_Average_Application.xml
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Form1.resources
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.Resources.resources
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.GenerateResource.cache
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.exe
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.xml
+C:\VisualBasic\Exam_Average_Application\Exam_Average_Application\obj\Debug\Exam_Average_Application.pdb

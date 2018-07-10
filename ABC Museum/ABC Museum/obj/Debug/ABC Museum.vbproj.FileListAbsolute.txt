@@ -1,0 +1,48 @@
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe.config
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.pdb
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.xml
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbprojResolveAssemblyReference.cache
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Form1.resources
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Resources.resources
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.GenerateResource.Cache
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.CoreCompileInputs.cache
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.exe
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.xml
+E:\Monroe College 2017\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.pdb
+C:\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe.config
+C:\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.exe
+C:\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.pdb
+C:\VisualBasic\ABC Museum\ABC Museum\bin\Debug\ABC Museum.xml
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbprojAssemblyReference.cache
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Form1.resources
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC_Museum.Resources.resources
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.GenerateResource.cache
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.exe
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.xml
+C:\VisualBasic\ABC Museum\ABC Museum\obj\Debug\ABC Museum.pdb

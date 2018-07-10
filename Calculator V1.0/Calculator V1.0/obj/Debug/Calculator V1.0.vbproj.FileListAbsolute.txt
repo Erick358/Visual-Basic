@@ -1,0 +1,47 @@
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe.config
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.pdb
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.xml
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbprojResolveAssemblyReference.cache
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Form1.resources
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Resources.resources
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.GenerateResource.Cache
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.CoreCompileInputs.cache
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.exe
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.xml
+E:\Monroe College 2017\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.pdb
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe.config
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.exe
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.pdb
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\bin\Debug\Calculator V1.0.xml
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Form1.resources
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\WindowsApp1.Resources.resources
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.GenerateResource.cache
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.exe
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.xml
+C:\VisualBasic\Calculator V1.0\Calculator V1.0\obj\Debug\Calculator V1.0.pdb

@@ -1,0 +1,59 @@
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\bin\Debug\Utilities Application.exe.config
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\bin\Debug\Utilities Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\bin\Debug\Utilities Application.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\bin\Debug\Utilities Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.vbprojResolveAssemblyReference.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities_Application.Form1.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities_Application.Resources.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.vbproj.GenerateResource.Cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.vbproj.CoreCompileInputs.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\Utilities Application\obj\Debug\Utilities Application.pdb
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe.config
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.pdb
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.xml
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbprojResolveAssemblyReference.cache
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Form1.resources
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Resources.resources
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.GenerateResource.Cache
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.CoreCompileInputs.cache
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.exe
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.xml
+E:\Monroe College 2017\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.pdb
+C:\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe.config
+C:\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.exe
+C:\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.pdb
+C:\VisualBasic\Utilities Application\Utilities Application\bin\Debug\Utilities Application.xml
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Form1.resources
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities_Application.Resources.resources
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.GenerateResource.cache
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.exe
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.xml
+C:\VisualBasic\Utilities Application\Utilities Application\obj\Debug\Utilities Application.pdb

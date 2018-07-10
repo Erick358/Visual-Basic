@@ -1,0 +1,59 @@
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\bin\Debug\ListBoxApplication.exe.config
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\bin\Debug\ListBoxApplication.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\bin\Debug\ListBoxApplication.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\bin\Debug\ListBoxApplication.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.vbprojResolveAssemblyReference.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.Form1.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.Resources.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.GenerateResource.Cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.CoreCompileInputs.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\ListBoxApplication\obj\Debug\ListBoxApplication.pdb
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe.config
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.pdb
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.xml
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbprojResolveAssemblyReference.cache
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Form1.resources
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Resources.resources
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.GenerateResource.Cache
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.CoreCompileInputs.cache
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.exe
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.xml
+E:\Monroe College 2017\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.pdb
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe.config
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.exe
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.pdb
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\bin\Debug\ListBoxApplication.xml
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Form1.resources
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.Resources.resources
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.GenerateResource.cache
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.exe
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.xml
+C:\VisualBasic\ListBoxApplication\ListBoxApplication\obj\Debug\ListBoxApplication.pdb

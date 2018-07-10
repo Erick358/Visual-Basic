@@ -1,0 +1,48 @@
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\bin\Debug\XYZ Company Application.exe.config
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\bin\Debug\XYZ Company Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\bin\Debug\XYZ Company Application.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\bin\Debug\XYZ Company Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ_Company_Application.Form1.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ_Company_Application.Resources.resources
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.GenerateResource.Cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.CoreCompileInputs.cache
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.exe
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.xml
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.pdb
+C:\Users\earboleda0165\AppData\Local\Temporary Projects\XYZ Company Application\obj\Debug\XYZ Company Application.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.exe.config
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.pdb
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbprojResolveAssemblyReference.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ_Company_Application.Form1.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ_Company_Application.Resources.resources
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.GenerateResource.Cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.CoreCompileInputs.cache
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.exe
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.xml
+D:\Academic Career\Monroe College\IT Courses\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.exe.config
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.pdb
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\bin\Debug\XYZ Company Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbprojResolveAssemblyReference.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ_Company_Application.Form1.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ_Company_Application.Resources.resources
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.GenerateResource.Cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.exe
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.xml
+C:\Users\Erick\Documents\Coding_Projects\VisualBasic\XYZ Company Application\XYZ Company Application\obj\Debug\XYZ Company Application.pdb
+C:\VisualBasic\Product Cost\XYZ Company Application\bin\Debug\XYZ Company Application.exe.config
+C:\VisualBasic\Product Cost\XYZ Company Application\bin\Debug\XYZ Company Application.exe
+C:\VisualBasic\Product Cost\XYZ Company Application\bin\Debug\XYZ Company Application.pdb
+C:\VisualBasic\Product Cost\XYZ Company Application\bin\Debug\XYZ Company Application.xml
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.vbprojAssemblyReference.cache
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ_Company_Application.Form1.resources
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ_Company_Application.Resources.resources
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.GenerateResource.cache
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.vbproj.CoreCompileInputs.cache
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.exe
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.xml
+C:\VisualBasic\Product Cost\XYZ Company Application\obj\Debug\XYZ Company Application.pdb
